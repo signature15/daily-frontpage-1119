@@ -2,8 +2,10 @@
 
 ## Design notes
 
-The poster is built as a broadsheet front page rather than a dashboard, and
-every choice below serves that metaphor.
+This document records the design decisions behind the front-page poster
+for Thursday 19 November 2026, a single-page roundup of the day's world
+news built from a 38-story slate and delivered as a broadsheet front page
+rather than a dashboard, and every choice below serves that metaphor.
 
 **Why cream paper.** A pure white background reads as a screen; newsprint
 cream reads as paper. The slight warmth also softens the black body text,
@@ -52,3 +54,15 @@ even if someone only sees the bottom edge of a crop.
 The result is one page that reads top to bottom as: what day is it, what
 were the numbers, what were the three big things, what else happened, and
 how do I know all of it is really from that day.
+
+## Sources
+
+- Reuters
+- AP
+- AFP
+- BBC
+- Bloomberg
+- Kyodo
+- ICJ
+- USGS
+- ONS
