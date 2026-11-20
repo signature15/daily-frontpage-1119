@@ -1,20 +1,19 @@
 /**
- * One Day in World News - Thursday 19 November 2026.
+ * THE GLOBAL DAY SHEET — Thursday 19 November 2026.
  *
- * The deliverable in this repository is entry.png, a single 1024x1024
- * poster composed as the front page of a cream newsprint broadsheet dated
- * Thursday 19 November 2026. At the top, the masthead carries the
- * nameplate alongside a red date tab stamping the edition. Below it, a
- * day-in-numbers strip folds the day into eight figures, among them the
- * International Court of Justice's 9-6 genocide vote, Anthropic's $81bn
- * IPO pricing, the M5.7 earthquake that shook Kumamoto, and UK inflation
- * at 3.6%. Three hero cards dominate the middle of the page: the three-way
- * summit convened in Shenzhen, the ICJ's Myanmar ruling, and Anthropic's
- * Nasdaq debut. Five secondary cards then seven tertiary cards widen the
- * frame, and twenty-four region-tagged evening briefs sweep in the rest of
- * the world's happenings. A date-check footer closes the page, drawing a
- * line between events that genuinely belong to 19 November and Wednesday's
- * carryover, so the edition stays true to its own dateline.
+ * This repository delivers entry.png as a single 1024x1024 news image.
+ * It is designed as a cream one-page broadsheet for the global news day.
+ * The masthead gives the edition its newspaper identity and clear dateline.
+ * A compact stat band turns the day's scale into figures that scan quickly.
+ * The main story blocks establish a visual order for the most consequential
+ * events, while smaller briefs add breadth without losing the page's rhythm.
+ * Together, the page carries forty stories from across the day's coverage.
+ * A region tally makes the geographic spread visible at a glance.
+ * The layout uses restrained ink, warm paper, rules, and compact type
+ * to suggest a printed sheet rather than a modern dashboard or feed.
+ * The footer performs a final date check against Thursday's dateline.
+ * It distinguishes stories belonging to 19 November from carryover items,
+ * giving the edition a clear editorial boundary at the bottom of the page.
  */
 import { copyFileSync, mkdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';

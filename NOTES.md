@@ -2,10 +2,11 @@
 
 ## Design notes
 
-This document records the design decisions behind the front-page poster
-for Thursday 19 November 2026, a single-page roundup of the day's world
-news built from a 38-story slate and delivered as a broadsheet front page
-rather than a dashboard, and every choice below serves that metaphor.
+This document records the design decisions behind THE GLOBAL DAY SHEET,
+a cream one-page broadsheet edition for Thursday 19 November 2026. The
+poster presents forty stories from the day's world news, supported by a
+stat band, a region tally, and a date-check footer, with every choice below
+serving the printed-news metaphor.
 
 **Why cream paper.** A pure white background reads as a screen; newsprint
 cream reads as paper. The slight warmth also softens the black body text,
